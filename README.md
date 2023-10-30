@@ -20,7 +20,8 @@
 
 ![Captura3](https://github.com/usuarioo1/restorantapp/assets/132730631/1ffe89ba-662e-4b15-a424-1acff3de7f4f)
 
-##Contáctanos
+## Contáctanos
+
 ![Captura4](https://github.com/usuarioo1/restorantapp/assets/132730631/d44e75d8-77a3-4500-ba67-2a4fb5b59f95)
 
 #### Además se peuden hacer reservar al restaurant
